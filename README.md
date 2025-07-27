@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **pritomrabidas102@gmail.com**
 
-- 📄 Know about my experiences [Kian Graham.pdf](Kian Graham.pdf)
 
-- ⚡ Fun fact **I debug more than I eat 🍝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
