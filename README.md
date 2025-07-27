@@ -1,5 +1,6 @@
-<h2 align="start" class="heading-element" dir="auto">Hi 👋, I'm Developer Pritom </h1>
-<h1 align="start" class="heading-element" dir="auto">Full Stack Developer from Bangladesh</h3>
+<h2 align="start" class="heading-element" dir="auto">Hi there 👋 </h1>
+<h1 align="start" class="heading-element" dir="auto">This is Pritom Rabi Das</h3>
+<h3 align="start" class="heading-element" dir="auto">Full Stack Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **React** , **Django** & **Node**
 
