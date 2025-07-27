@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pritom Rabidas</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h1 align="start" class="heading-element" dir="auto">Hi 👋, I'm Pritom Rabidas</h1>
+<h3 align="start" class="heading-element" dir="auto">A passionate Full Stack developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React, Node & Django**
+- 🌱 I’m currently learning **React** , **Django** & **Node**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Node.js, SEO & SSR**
+- 💬 Ask me about **Full Stack learning process**
 
-- 🤝 I’m looking for help with **Scaling backend in Django**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://pritomrabidas.vercel.app/](https://pritomrabidas.vercel.app/)
 
