@@ -1,5 +1,5 @@
-<h1 align="start" class="heading-element" dir="auto">Hi 👋, I'm Pritom Rabidas</h1>
-<h3 align="start" class="heading-element" dir="auto">A passionate Full Stack developer from Bangladesh</h3>
+<h2 align="start" class="heading-element" dir="auto">Hi 👋, I'm Pritom </h1>
+<h1 align="start" class="heading-element" dir="auto">A passionate Full Stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **React** , **Django** & **Node**
 
